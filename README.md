@@ -1,9 +1,6 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-<img
-  src="https://github.com/anka-bog/anka-bog/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
+
 <!--END_SECTION:waka-->
 
 

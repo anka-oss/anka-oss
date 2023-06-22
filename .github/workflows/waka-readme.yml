@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "10 08 * * *" # runs at every 12AM UTC
+    - cron: "25 08 * * *" # runs at every 12AM UTC
 
 jobs:
   update-readme:
@@ -13,3 +13,9 @@ jobs:
       - uses: nneczka/waka-readme@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: ->
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          LANG_COUNT: 10

@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # Runs every day at midnight UTC
   workflow_dispatch: # Allow manual run
 
+permissions:
+  contents: write
+
 jobs:
   update-wakatime:
     runs-on: ubuntu-latest

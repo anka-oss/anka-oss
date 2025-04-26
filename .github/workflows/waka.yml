@@ -16,7 +16,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Optional settings below
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           commit_message: "Updated WakaTime stats 📈"
           show_title: true
           show_time: true

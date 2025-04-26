@@ -23,4 +23,3 @@ jobs:
           show_total: true
           time_range: last_7_days
           lang_count: 5
-          update_interval_minutes: 1440

@@ -21,11 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 13 June 2025
+From: 07 June 2025 - To: 14 June 2025
 
-Total Time: 37 mins
+Total Time: 10 mins
 
-HTML   37 mins         █████████████████████████   100.00 %
+HTML   7 mins          ███████████████████░░░░░░   75.75 %
+CSS    2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.56 %
+XML    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->

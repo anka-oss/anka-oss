@@ -21,11 +21,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2025 - To: 17 July 2025
+From: 11 July 2025 - To: 18 July 2025
 
-Total Time: 0 secs
+Total Time: 51 mins
 
-No activity tracked
+JavaScript   42 mins         ████████████████████▓░░░░   82.52 %
+JSON         9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
 ```
 
 <!--END_SECTION:waka-->
